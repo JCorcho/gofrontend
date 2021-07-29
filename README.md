@@ -3,9 +3,9 @@
 Ian Lance Taylor
 Last update 15 June 2014
 
-This is a compiler frontend for the [Go programming language](http://golang.org/). The frontend was originally developed at Google, and was released in November 2009. It was originally written by Ian Lance Taylor.
+This is a compiler frontend for the [Go programming language](http://golang.org/). The frontend was originally developed at Google and was released in November 2009. It was originally written by Ian Lance Taylor.
 
-It was originally written for [GCC](http://gcc.gnu.org/). As of this writing it only supports GCC, but the GCC support has been separated from the rest of the frontend, so supporting another compiler is feasible.
+It was originally written for [GCC](http://gcc.gnu.org/). As of this writing, it only supports GCC, but the GCC support has been separated from the rest of the frontend, so supporting another compiler is feasible.
 
 The go subdirectory holds the frontend source code. This is mirrored to the gcc/go subdirectory in the GCC repository.
 
